@@ -66,7 +66,7 @@ local defaults = {
     StatusLine = { fg = colors.light_gray, bg = colors.black },
     StatusLineNC = { fg = colors.light_gray, bg = colors.dark_blue },
     Tabline = { fg = colors.fg, bg = colors.dark_blue, reverse = true },
-    VertSplit = { fg = colors.fg },
+    VertSplit = { fg = colors.dark_gray },
     Visual = { bg = colors.dark_gray },
     WarningMsg = { fg = colors.yellow },
 
