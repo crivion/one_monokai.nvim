@@ -25,6 +25,7 @@ local defaults = {
     dark_green = "#2d2e27",
     dark_blue = "#26292f",
     black = "#1e2024",
+    astrodark = "#27292e",
     none = "NONE",
 }
 
