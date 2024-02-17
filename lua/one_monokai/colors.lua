@@ -26,6 +26,7 @@ local defaults = {
     dark_blue = "#26292f",
     black = "#1e2024",
     astrodark = "#27292e",
+    folder = "#374047",
     none = "NONE",
 }
 

@@ -70,7 +70,7 @@ local defaults = {
     Visual = { bg = colors.dark_gray },
     WarningMsg = { fg = colors.yellow },
 
-    Directory = { fg = colors.gray },
+    Directory = { fg = colors.folder },
     SpecialKey = { fg = colors.pink },
     Title = { fg = colors.yellow },
 
