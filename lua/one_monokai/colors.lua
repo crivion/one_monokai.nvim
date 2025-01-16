@@ -4,7 +4,7 @@ local colors = {}
 ---@type colors
 local defaults = {
     fg = "#abb2bf",
-    bg = "#282c34",
+    bg = "#1E222A",
     gray = "#676e7b",
     pink = "#e06c75",
     green = "#98c379",
